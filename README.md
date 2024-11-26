@@ -25,7 +25,7 @@
  - Microservices Architecture: Developed and deployed the Multilingual System (MLS) as a microservice
  to improve localization across applications and optimize performance.
  - Code Security Improvement: Reduced Static Application Security Testing(SAST) issues by 92%(from 300
- to 23) in two month,significantly enhancing codebase security as reported by Veracode
+ to 23) in two month, significantly enhancing codebase security as reported by Veracode
 ## Education
 #### National Institute of Technology, Durgapur(2019 - 2023)
 - Bachelor of Technology in Electronics and Communication Engineering(CGPA : 8.32/10)
