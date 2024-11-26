@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love 🚴‍♂️🚴‍♀️🚴‍♂️ cycling and 🏊‍♂️🏊‍♀swimming.
 ## Experience
-# Full Stack Developer, Napier Healthcare Solutions (July 2023 - Present
+#### Full Stack Developer, Napier Healthcare Solutions (July 2023 - Present
  - Backend Development: Designed and executed RESTful APIs using Spring Boot, reducing API response
  time by 20% through efficient code structuring.
  - Security: Integrated secure authentication and authorization using Spring Security to safeguard
