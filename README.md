@@ -1,4 +1,4 @@
-## Hi , I am Prakhar @AcceleratingOnwards
+## Hi , I am Prakhar @ (AcceleratingOnwards)
 
 <!--
 **AcceleratingOnwards/AcceleratingOnwards** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
