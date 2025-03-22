@@ -7,7 +7,7 @@
   - LinkedIn: https://www.linkedin.com/in/prakhar-kumar-8b877a206/
  
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love 🚴‍♂️🚴‍♀️🚴‍♂️ cycling and 🏊‍♂️🏊‍♀swimming.
+- ⚡ Fun fact: I love 🚴‍♂️🚴‍♀️cycling and 🏊‍♂️🏊‍♀🏊‍♀swimming.
 ## Experience
 #### Full Stack Developer, Napier Healthcare Solutions (July 2023 - Present)
  - Backend Development: Designed and executed RESTful APIs using Spring Boot, reducing API response
